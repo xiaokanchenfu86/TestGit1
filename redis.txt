@@ -1,0 +1,16 @@
+Redis 查看所有的key
+
+keys *
+
+
+
+
+https://www.cnblogs.com/xsi640/p/3755133.html
+redis-cli 命令总结
+
+
+
+https://blog.csdn.net/Agly_Clarlie/article/details/52251746
+redis 报错 Redis protected-mode 配置文件没有真正启动
+
+
